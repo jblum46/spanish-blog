@@ -21,24 +21,16 @@
 		}
 	
 
-		.floating-box {
 
-
-    		display: inline-block;
-    		width: 180px;
-    		height: 75px;
-   		margin: 10px;
-    		border: 3px solid #006BB6;  
-			}
 		
 		h1{color:006BB6;}
-
+		{text-align: center;}
 
 		h2 {font-family: Helvetica, sans-serif;}
-		.specialtext {font-weight:bold;}
-		h2.specialtext {color:006BB6;}
-		h2.specialtext span {font-style:italic;}
-		h2.specialtext {text-align: center;}
+		{font-weight:bold;}
+	 	{color:006BB6;}
+		{font-style:italic;}
+		{text-align: center;}
 		
 		#header {
 			text-align: center;
@@ -48,7 +40,7 @@
 			width:615px;
 		}
 
-		#articles {
+		#posts {
 			border-width: thin;
 			border-style: solid;
 			border-color: #fdb927;
